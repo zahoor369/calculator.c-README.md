@@ -1,0 +1,16 @@
+# Basic Calculator in C
+
+This is a simple calculator program written in C. It can perform basic operations like addition, subtraction, multiplication, and division.
+
+## Instructions to Run the Code
+
+1. Make sure you have a C compiler installed on your computer, such as GCC. You can install GCC from [gcc.gnu.org](https://gcc.gnu.org/).
+
+2. Download or clone this repository.
+
+3. Open a terminal (or Command Prompt) and navigate to the directory containing the `calculator.c` file.
+
+4. Compile the code using the following command:
+
+   ```bash
+   gcc calculator.c -o calculator
